@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    background-color: #26324a;
+    color: white;
+    height: 400px;
+}
+
+
+.list-header{
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.header.button{
+    height: 100px;
+}
